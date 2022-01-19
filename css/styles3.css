@@ -1,26 +1,28 @@
 body {
     font-family: Arial;
     padding: 20px;
-    background: darkgrey;
+    background: red;
 }
    
-    .header {
-      padding: 30px;
-      font-size: 40px;
-      text-align: center;
-      background: orangered;
+.header {
+    padding: 30px;
+    font-size: 40px;
+    text-align: center;
+    background: orangered;
       
     }
-h2{
+.h2{
     color: grey;
-
 }
+
 p{
   background-color: grey;
 }
+
 break{
     color: grey;
 }
+
 h1{
     padding: 30px;
     font-size: 40px;
